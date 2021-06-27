@@ -64,6 +64,16 @@
 		},
 		{
 			"downloads": {
+                		"artifact": {
+					"sha1": "d5edf89c7b6ca1ea20865a6ba0a09bfc5efb29c1",
+					"size": 6392,
+					"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-tinyfd/3.2.3/lwjgl-tinyfd-3.2.3.jar"
+                		}
+            		},
+            		"name": "org.lwjgl:lwjgl-tinyfd:3.2.2"		
+		},
+		{
+			"downloads": {
 				"artifact": {
 					"sha1": "17a59ba0fe8d474ec9dbe0d5db40d2cfe59c4c08",
 					"size": 552997,
@@ -181,7 +191,27 @@
 			"natives": {
 				"linux": "natives-linux"
 			}
-		}
+		},
+		{
+            		"downloads": {
+                		"artifact": {
+                    			"sha1": "d5edf89c7b6ca1ea20865a6ba0a09bfc5efb29c1",
+					"size": 6392,
+					"url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-tinyfd/3.2.3/lwjgl-tinyfd-3.2.3.jar"
+                		},
+                		"classifiers": {
+					    "natives-linux": {
+						    "sha1": "bfc7be38fdc64f502b667fe2177db2ca8fd628cd",
+						    "size": 34992,
+						    "url": "https://repo1.maven.org/maven2/org/lwjgl/lwjgl-tinyfd/3.2.3/lwjgl-tinyfd-3.2.3-natives-linux-arm64.jar"
+					}
+				}
+			},
+			"name": "org.lwjgl:lwjgl-tinyfd:3.2.2",
+			"natives": {
+				"linux": "natives-linux"
+			}
+        	}
 	],
 	"name": "LWJGL 3",
 	"order": -1,
