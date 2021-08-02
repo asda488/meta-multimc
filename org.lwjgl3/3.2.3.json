@@ -207,7 +207,7 @@
 					}
 				}
 			},
-			"name": "org.lwjgl:lwjgl-tinyfd:3.2.2",
+			"name": "org.lwjgl:lwjgl-tinyfd:3.2.3",
 			"natives": {
 				"linux": "natives-linux"
 			}
