@@ -5,22 +5,22 @@
     ],
     "assetIndex": {
         "id": "1.17",
-        "sha1": "fc00c90b4d2d27a4569b4f0d5487c70d13063dba",
-        "size": 346007,
-        "totalSize": 345328663,
-        "url": "https://launchermeta.mojang.com/v1/packages/fc00c90b4d2d27a4569b4f0d5487c70d13063dba/1.17.json"
+        "sha1": "dc07b2e194e5a7e6e6f6dd54a7ace9e66238c30b",
+        "size": 346003,
+        "totalSize": 346259936,
+        "url": "https://launchermeta.mojang.com/v1/packages/dc07b2e194e5a7e6e6f6dd54a7ace9e66238c30b/1.17.json"
     },
     "formatVersion": 1,
     "libraries": [
         {
             "downloads": {
                 "artifact": {
-                    "sha1": "aef610b34a1be37fa851825f12372b78424d8903",
-                    "size": 15817,
-                    "url": "https://libraries.minecraft.net/com/mojang/patchy/1.1/patchy-1.1.jar"
+                    "sha1": "e3107ca512d704a434076a153a6e1149e3787275",
+                    "size": 22340,
+                    "url": "https://libraries.minecraft.net/com/mojang/patchy/1.2.3/patchy-1.2.3.jar"
                 }
             },
-            "name": "com.mojang:patchy:1.1"
+            "name": "com.mojang:patchy:1.2.3"
         },
         {
             "downloads": {
