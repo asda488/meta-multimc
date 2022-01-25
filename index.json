@@ -7,22 +7,22 @@
         },
         {
             "name": "Fabric Loader",
-            "sha256": "87353a2a31b5af999afa115804bbbd022132b6f50e85de5d7cdb6f33afbd2e1f",
+            "sha256": "38d56f58282ae2b2059ea94bfa650fcdef058327415ab780e4e7f109fe619748",
             "uid": "net.fabricmc.fabric-loader"
         },
         {
             "name": "Intermediary Mappings",
-            "sha256": "bddfe3e16c2d0e94c01dd2be2ca1d4a74d92c99c1abf8bbd48bbfe13e83d2996",
+            "sha256": "0030361d7d11d9e200cad6567144f70f775cba2f9bf6ef0832008b640712cede",
             "uid": "net.fabricmc.intermediary"
         },
         {
             "name": "Minecraft",
-            "sha256": "2d61ba41037482d6d8635a675aa6ef87d0d753105da4d866fbe1ff18cd162b06",
+            "sha256": "65bfa19921a7f7b77354d5590ae25a51c321559e4663c37ce853be99a88c7a1a",
             "uid": "net.minecraft"
         },
         {
             "name": "Forge",
-            "sha256": "d68c7e1d14e68bf32af092ac4676224d618f12d7fec9f65d4df80a23af9d09fc",
+            "sha256": "363c5e48dbb403488e889e82043f2f1e91d4d2904e6d7b071d089ef53385c7b8",
             "uid": "net.minecraftforge"
         },
         {
