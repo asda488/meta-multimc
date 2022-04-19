@@ -5,6 +5,76 @@
     "versions": [
         {
             "recommended": true,
+            "releaseTime": "2022-04-13T16:49:44+00:00",
+            "requires": [
+                {
+                    "equals": "22w15a",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "a31d938dcf0c4621cd842d21ac8a26b0b9dfaf0dad2ca603b0fc0d36236578d1",
+            "type": "release",
+            "version": "22w15a",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2022-04-06T18:59:48+00:00",
+            "requires": [
+                {
+                    "equals": "22w14a",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "27f3f4197f9fceba4e6c12e5b89d25ef1331261fb8fe9dfd253c135e318b6509",
+            "type": "release",
+            "version": "22w14a",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2022-04-01T15:31:12+00:00",
+            "requires": [
+                {
+                    "equals": "22w13oneblockatatime",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "6ec85e775b4a3b10194869349e3065c8bbbc7d78e010f4b2d446cb88fdab7ca3",
+            "type": "release",
+            "version": "22w13oneblockatatime",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2022-03-31T17:18:58+00:00",
+            "requires": [
+                {
+                    "equals": "22w13a",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "6d1de43c1f02129f6c29e1db5e12fc56549ebc8a6619e6c51e704b53c11dc66e",
+            "type": "release",
+            "version": "22w13a",
+            "volatile": true
+        },
+        {
+            "recommended": true,
+            "releaseTime": "2022-03-24T19:04:12+00:00",
+            "requires": [
+                {
+                    "equals": "22w12a",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "ed9caeb7f5f282e3e6d9ffd5e0d4b6007ee7d161fb6ed91847ffd40fc686f0cc",
+            "type": "release",
+            "version": "22w12a",
+            "volatile": true
+        },
+        {
+            "recommended": true,
             "releaseTime": "2022-03-16T20:36:38+00:00",
             "requires": [
                 {
